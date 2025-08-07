@@ -15,7 +15,7 @@ This repository provides associated codes and data for our work on inhibitor bin
 &nbsp;
 
 The trajectory data files for this work are available on zenodo \
-[![trajectories](https://img.shields.io/badge/trajectories-red?style=for-the-badge)](https://github.com/msahilgit/hsp90) \
+[![trajectories](https://img.shields.io/badge/trajectories-red?style=for-the-badge)](https://github.com/msahilgit/hsp90/blob/main/MS/to-be-released) \
 &nbsp;
 
 
